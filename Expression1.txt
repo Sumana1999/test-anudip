@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>A Simple Page</title>
+<script language="JavaScript">
+<!--
+    var radius = parseInt(prompt("Enter radius : "));
+    document.write(Math.PI * ((inpRadius)*(inpRadius)));
+//  -->
+</script>
+</head>
+<body>
+
+</body>
+</html>
